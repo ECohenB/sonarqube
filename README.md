@@ -1,10 +1,10 @@
 # sonarqube
-Análisis Estático de Código con SonarQube y Maven en proyecto de java "Validador App"
-Grupo 3
+Análisis Estático de Código con SonarQube y Maven en proyecto de java "Validador App".
+Grupo 3,
 integrantes:
-Emariana Cohen 
-Claudio Figueroa
-Oscar Valenzuela
+- Emariana Cohen 
+- Claudio Figueroa
+- Oscar Valenzuela
 
 - ¿Qué tipo de errores detectó SonarQube que podrían haber pasado desapercibidos?
   Sonar Qube detecto un error de "Maintainability" y esto se refiere a qué tan fácil es entender, modificar y extender el código. Si el código es complejo, repetitivo o mal estructurado, será difícil de mantener en el tiempo, lo que incrementa el riesgo de errores. En el ejercicio este punto se detectó en el archivo App.java al colocar en el código un usuario y clave de acceso que después se corrigió.
