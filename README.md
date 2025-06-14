@@ -17,6 +17,7 @@ Oscar Valenzuela
   Aumenta la confianza del equipo y stakeholders, al tener un monitoreo objetivo y constante.
   Se integra con pipelines CI/CD, bloqueando builds si no se cumplen criterios mínimos de calidad.
 - ¿Qué políticas o reglas personalizarías según el tipo de proyecto?
+  Las políticas o reglas que personalizaría en SonarQube dependerían del tipo y criticidad del proyecto. Por ejemplo, en proyectos críticos o financieros aplicaría reglas estrictas de seguridad, alta cobertura de pruebas (por encima del 80%) y cero errores bloqueantes. En cambio, en proyectos heredados o legacy, comenzaría aplicando solo las reglas más críticas para evitar frenar el desarrollo. Para APIs públicas o microservicios, priorizaría buenas prácticas REST, control de errores, duplicación de código y mantenibilidad. SonarQube permite crear perfiles de calidad personalizados para adaptar estas reglas según el contexto, asegurando un análisis coherente y útil para cada tipo de proyecto.
 
 ![image](https://github.com/user-attachments/assets/e853f9c2-9f52-4ad9-8b35-21594a742e74)
 
