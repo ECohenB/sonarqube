@@ -17,3 +17,9 @@ Oscar Valenzuela
   Aumenta la confianza del equipo y stakeholders, al tener un monitoreo objetivo y constante.
   Se integra con pipelines CI/CD, bloqueando builds si no se cumplen criterios mínimos de calidad.
 - ¿Qué políticas o reglas personalizarías según el tipo de proyecto?
+
+![image](https://github.com/user-attachments/assets/e853f9c2-9f52-4ad9-8b35-21594a742e74)
+
+![image](https://github.com/user-attachments/assets/d88f06e1-2e86-430c-8f7a-030a0a162b78)
+
+
